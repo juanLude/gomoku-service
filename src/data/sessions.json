@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "62f87675bebc07b56c891634",
+    "movieId": "62f875f70860a1d7140f99d1",
+    "theaterId": "62f876cd425096e7ac6be8d1",
+    "time": "7:15 PM"
+  },
+  {
+    "_id": "62f87686046144b2db50b8a1",
+    "movieId": "62f875f70860a1d7140f99d1",
+    "theaterId": "62f876cd425096e7ac6be8d2",
+    "time": "8:15 PM"
+  },
+  {
+    "_id": "62f8768c91441247ce0774ad",
+    "movieId": "62f875f70860a1d7140f99d2",
+    "theaterId": "62f876cd425096e7ac6be8d3",
+    "time": "7:00 PM"
+  }
+]

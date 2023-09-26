@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "62f875f70860a1d7140f99d1",
+    "userId": "64fb8f96cd536ea832f1fc84",
+    "sessionId": "62f87675bebc07b56c891634",
+    "result": "Black",
+    "boardSize": "5",
+    "date": "8/09/2023",
+    "moves": [0, 1, 6, 7, 12, 8, 18, 14, 24]
+  },
+  {
+    "userId": "62f88bd5e67347af189c4bbg",
+    "sessionId": "62f87675bebc07b56c891635",
+    "result": "White",
+    "boardSize": "6",
+    "date": "13/06/2021",
+    "moves": [2, 9, 15, 8, 21, 14, 27, 10, 34, 7, 32, 11]
+  },
+  {
+    "userId": "64fd11862654a66e0afb6fb4",
+    "sessionId": "64fb8f96cd536ea832f1fc88",
+    "result": "Draw",
+    "boardSize": "5",
+    "date": "16/07/2021",
+    "moves": [
+      6, 7, 2, 1, 13, 8, 3, 9, 4, 14, 19, 18, 17, 12, 11, 0, 5, 15, 10, 21, 16,
+      20, 22, 23, 24
+    ]
+  },
+  {
+    "userId": "64fd11862654a66e0afb6fb4",
+    "sessionId": "64fb8f96cd536ea832f1fc89",
+    "result": "Draw",
+    "boardSize": "5",
+    "date": "16/07/2021",
+    "moves": [698, 888]
+  }
+]

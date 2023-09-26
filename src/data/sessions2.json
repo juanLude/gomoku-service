@@ -1,0 +1,419 @@
+[
+  {
+    "_id": {
+      "$oid": "64fb8f96cd536ea832f1fc85"
+    },
+    "result": "White",
+    "moves": [],
+    "date": {
+      "$date": "2023-09-09T11:35:00.983Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fb8f96cd536ea832f1fc86"
+    },
+    "result": "White",
+    "moves": [0, 1, 6, 7, 12, 8, 18, 14, 24],
+    "date": {
+      "$date": "2023-09-09T11:36:32.141Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fb8f96cd536ea832f1fc88"
+    },
+    "result": "Yellow",
+    "moves": [0, 1, 6, 7, 12, 8, 18, 14, 24],
+    "date": {
+      "$date": "2023-09-09T11:41:39.047Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fb8f96cd536ea832f1fc89"
+    },
+    "result": "Blue",
+    "moves": [0, 1, 6, 7, 12, 8, 18, 14, 24],
+    "date": {
+      "$date": "2023-09-09T11:42:45.848Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fb8f96cd536ea832f1fc90"
+    },
+    "result": "Blue",
+    "moves": [0, 1, 6, 7, 12, 8, 18, 14, 24],
+    "date": {
+      "$date": "2023-09-09T11:44:26.005Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fb8f96cd536ea832f1fc91"
+    },
+    "sessionId": {
+      "$oid": "64fb8f96cd536ea832f1fc84"
+    },
+    "result": "Blue",
+    "moves": [0, 1, 6, 7, 12, 8, 18, 14, 24],
+    "date": {
+      "$date": "2023-09-09T11:47:53.739Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fb8f96cd536ea832f1fc72"
+    },
+    "sessionId": {
+      "$oid": "64fb8f96cd536ea832f1fc84"
+    },
+    "result": "Negro",
+    "moves": [25],
+    "date": {
+      "$date": "2023-09-09T12:09:21.287Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fb8f96cd536ea832f1fc09"
+    },
+    "sessionId": {
+      "$oid": "64fb8f96cd536ea832f1fc84"
+    },
+    "result": "Negro",
+    "moves": [35],
+    "date": {
+      "$date": "2023-09-09T12:11:28.265Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fb8f96cd536ea832f1fc19"
+    },
+    "sessionId": {
+      "$oid": "64fb8f96cd536ea832f1fc84"
+    },
+    "result": "Blanco",
+    "moves": [55],
+    "date": {
+      "$date": "2023-09-09T12:14:36.849Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fb8f96cd536ea832f1fc12"
+    },
+    "sessionId": {
+      "$oid": "64fb8f96cd536ea832f1fc84"
+    },
+    "result": "Bobiz",
+    "moves": [56],
+    "date": {
+      "$date": "2023-09-09T12:18:25.884Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fb8f96cd536ea832f1fc14"
+    },
+    "sessionId": {
+      "$oid": "64fb8f96cd536ea832f1fc84"
+    },
+    "result": "Bobiz",
+    "moves": [57],
+    "date": {
+      "$date": "2023-09-09T12:21:15.396Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fb8f96cd536ea832f1fc15"
+    },
+    "sessionId": {
+      "$oid": "64fb8f96cd536ea832f1fc84"
+    },
+    "result": "Bobiz",
+    "moves": [58],
+    "date": {
+      "$date": "2023-09-09T12:22:22.871Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fb8f96cd536ea832f1fc16"
+    },
+    "sessionId": {
+      "$oid": "64fb8f96cd536ea832f1fc84"
+    },
+    "result": "Xuxa",
+    "boardSize": 3,
+    "moves": [59],
+    "date": {
+      "$date": "2023-09-09T12:25:07.349Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fb8f96cd536ea832f1fc20"
+    },
+    "sessionId": {
+      "$oid": "64fb8f96cd536ea832f1fc84"
+    },
+    "result": "White",
+    "boardSize": 6,
+    "moves": [61],
+    "date": {
+      "$date": "2023-09-09T12:29:11.616Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fb8f96cd536ea832f1fc21"
+    },
+    "sessionId": {
+      "$oid": "64fb8f96cd536ea832f1fc84"
+    },
+    "result": "Blue",
+    "boardSize": 5,
+    "moves": [62, 63],
+    "date": {
+      "$date": "2023-09-09T22:09:13.898Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fb8f96cd536ea832f1fc23"
+    },
+    "sessionId": {
+      "$oid": "64fb8f96cd536ea832f1fc91"
+    },
+    "result": "Blue",
+    "boardSize": 5,
+    "moves": [62, 63],
+    "date": {
+      "$date": "2023-09-09T23:06:59.498Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fb8f96cd536ea832f1fc24"
+    },
+    "sessionId": {
+      "$oid": "64fb8f96cd536ea832f1fc91"
+    },
+    "result": "Black",
+    "boardSize": 5,
+    "moves": [65, 66, 67],
+    "date": {
+      "$date": "2023-09-09T23:35:10.544Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fb8f96cd536ea832f1fc25"
+    },
+    "sessionId": {
+      "$oid": "64fb8f96cd536ea832f1fc91"
+    },
+    "result": "Marron",
+    "boardSize": 10,
+    "moves": [68, 69, 70],
+    "date": {
+      "$date": "2023-09-10T00:09:46.249Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fb8f96cd536ea832f1fc28"
+    },
+    "sessionId": {
+      "$oid": "64fb8f96cd536ea832f1fc91"
+    },
+    "result": "Marron",
+    "boardSize": 20,
+    "moves": [71],
+    "date": {
+      "$date": "2023-09-10T00:11:46.121Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fb8f96cd536ea832f1fc29"
+    },
+    "sessionId": {
+      "$oid": "64fb8f96cd536ea832f1fc91"
+    },
+    "result": "Marron",
+    "boardSize": 20,
+    "moves": [73, 74, 75],
+    "date": {
+      "$date": "2023-09-10T00:13:08.478Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fd155a725f08ca15340b99"
+    },
+    "userId": {
+      "$oid": "64fb8f96cd536ea832f1fc84"
+    },
+    "sessionId": {
+      "$oid": "64fb8f96cd536ea832f1fc91"
+    },
+    "result": "Verde",
+    "boardSize": 20,
+    "moves": [88, 89, 90],
+    "date": {
+      "$date": "2023-09-10T01:01:14.030Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fe8d43c87d335646faeb05"
+    },
+    "userId": {
+      "$oid": "64fd11862654a66e0afb6fb4"
+    },
+    "sessionId": {
+      "$oid": "64fb8f96cd536ea832f1fc88"
+    },
+    "result": "LigthBlue",
+    "boardSize": 6,
+    "moves": [1, 4, 6],
+    "date": {
+      "$date": "2023-09-11T03:45:07.059Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fe91e76ac097702638ab7e"
+    },
+    "userId": {
+      "$oid": "64fd11862654a66e0afb6fb4"
+    },
+    "sessionId": {
+      "$oid": "64fb8f96cd536ea832f1fc88"
+    },
+    "result": "Organge",
+    "boardSize": 5,
+    "moves": [5, 6, 12],
+    "date": {
+      "$date": "2023-09-11T04:04:55.593Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fe9d8a8d5461cc21d7fbd2"
+    },
+    "userId": "64fb8f96cd536ea832f1fc84",
+    "sessionId": "62f87675bebc07b56c891634",
+    "result": "Black",
+    "boardSize": "5",
+    "date": "8/09/2023",
+    "moves": [0, 1, 6, 7, 12, 8, 18, 14, 24]
+  },
+  {
+    "_id": {
+      "$oid": "64fe9d8a8d5461cc21d7fbd3"
+    },
+    "userId": "62f88bd5e67347af189c4bbg",
+    "sessionId": "62f87675bebc07b56c891635",
+    "result": "White",
+    "boardSize": "6",
+    "date": "13/06/2021",
+    "moves": [2, 9, 15, 8, 21, 14, 27, 10, 34, 7, 32, 11]
+  },
+  {
+    "_id": {
+      "$oid": "64fe9d8a8d5461cc21d7fbd4"
+    },
+    "userId": "64fd11862654a66e0afb6fb4",
+    "sessionId": "64fb8f96cd536ea832f1fc88",
+    "result": "Draw",
+    "boardSize": "5",
+    "date": "16/07/2021",
+    "moves": [
+      6, 7, 2, 1, 13, 8, 3, 9, 4, 14, 19, 18, 17, 12, 11, 0, 5, 15, 10, 21, 16,
+      20, 22, 23, 24
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6500b1ec5b7b0d7e30df5f24"
+    },
+    "userId": {
+      "$oid": "64fd11862654a66e0afb6fb4"
+    },
+    "sessionId": {
+      "$oid": "64fb8f96cd536ea832f1fc80"
+    },
+    "result": "Red",
+    "boardSize": 6,
+    "moves": [1, 2, 3, 4],
+    "date": {
+      "$date": "2023-09-12T18:46:04.812Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fb8f96cd536ea832f1fc11"
+    },
+    "userId": {
+      "$oid": "64fd11862654a66e0afb6fb4"
+    },
+    "sessionId": {
+      "$oid": "64fb8f96cd536ea832f1fc80"
+    },
+    "result": "White",
+    "boardSize": 9,
+    "moves": [2, 5],
+    "date": {
+      "$date": "2023-09-12T19:13:02.833Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64fb8f96cd536ea832f1fc80"
+    },
+    "userId": {
+      "$oid": "64fd11862654a66e0afb6fb4"
+    },
+    "sessionId": {
+      "$oid": "64fb8f96cd536ea832f1fc80"
+    },
+    "result": "Green",
+    "boardSize": 8,
+    "moves": [22, 13, 14, 15],
+    "date": {
+      "$date": "2023-09-02T19:13:02.833Z"
+    },
+    "__v": 0
+  }
+]
